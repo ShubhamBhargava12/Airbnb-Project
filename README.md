@@ -18,12 +18,6 @@ An end-to-end data analysis and visualization project that explores Airbnb listi
 
 ---
 
-## 🛠️ Getting Started
-
-### Prerequisites
-Depending on how you want to view the project, you will need:
-*   **Power BI Desktop** / **Tableau Desktop** (if using a BI tool dashboard)
-*   **Python 3.x** with `pandas`, `matplotlib`, and `seaborn` (if using a Jupyter Notebook setup)
 
 ### Setup Instructions
 1.  **Clone the Repository:**
@@ -39,6 +33,6 @@ Depending on how you want to view the project, you will need:
 ---
 
 ## 🚀 Technologies Used
-*   **Data Analysis:** Python (Pandas) / Power Query
-*   **Data Visualization:** Power BI / Tableau / Matplotlib
+*   **Data Analysis: Power Query
+*   **Data Visualization:** Power BI 
 *   **Data Source:** Airbnb Open Data (CSV format)
